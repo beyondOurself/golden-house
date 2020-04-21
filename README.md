@@ -1,8 +1,8 @@
 # golden-house
 书中自有黄金屋. 存放着学习的精神粮食.
 
-
-1.[《JavaScript高级程序设计》]()
+## 书籍连接
+1.[《JavaScript高级程序设计》(链接: https://pan.baidu.com/s/11TZL3U6rQT7JTnWqcZ7m_g 提取码: jf2t)](https://pan.baidu.com/s/11TZL3U6rQT7JTnWqcZ7m_g)
 2.《你不知道的JavaScript》
 3.《JavaScript设计模式与开发实践 》
 4.《CSS揭秘》
