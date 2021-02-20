@@ -30,6 +30,8 @@
 
 12. [《深入浅出 node.js》(链接: https://pan.baidu.com/s/1rfpwtM2SiDoG5X23mF2weA 提取码: bmc6)](https://pan.baidu.com/s/1rfpwtM2SiDoG5X23mF2weA)
 
-12. [《深入浅出 vue.js》(链接: https://gforn.lanzoui.com/iXygHht06cj 提取码: 无)](https://gforn.lanzoui.com/iXygHht06cj)
+13. [《深入浅出 vue.js》(链接: https://gforn.lanzoui.com/iXygHht06cj 提取码: 无)](https://gforn.lanzoui.com/iXygHht06cj)
+
+14. [《css选择器世界》(链接: https://pan.baidu.com/s/1-LwiTbl01L85qY1PTSj_bw 提取码: wmgx)](https://pan.baidu.com/s/1-LwiTbl01L85qY1PTSj_bw)
 
 
