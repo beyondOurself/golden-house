@@ -4,6 +4,7 @@
 ## 读后感悟
 
 <JavaScript 高级编程 第3版> 和 < css 世界 >, <深入浅出vue.js> 可以反复咀嚼,收益甚多.
+<javaScript 高级编程 第4版> 和 <css 选择器世界 > 基础 进阶不错的书籍
 
 ## 书籍连接
 1. [《JavaScript高级程序设计 第3版 》(链接: https://pan.baidu.com/s/11TZL3U6rQT7JTnWqcZ7m_g 提取码: jf2t)](https://pan.baidu.com/s/11TZL3U6rQT7JTnWqcZ7m_g)
