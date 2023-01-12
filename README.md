@@ -24,6 +24,11 @@
 
 [《javascript高级程序设计(第四版本).pdf》(链接: https://pan.baidu.com/s/1W0cLsjzt7PD9uEXOALwNuQ 提取码: 5twn)](https://pan.baidu.com/s/1W0cLsjzt7PD9uEXOALwNuQ)
 
+### vue.js
+
+[《vue.js 的设计与实现 》(链接: https://wwb.lanzoul.com/iNEfy0dfqyji)](https://wwb.lanzoul.com/iNEfy0dfqyji)
+
+
 ## 书籍连接
 1. [《JavaScript高级程序设计 第3版 》(链接: https://pan.baidu.com/s/11TZL3U6rQT7JTnWqcZ7m_g 提取码: jf2t)](https://pan.baidu.com/s/11TZL3U6rQT7JTnWqcZ7m_g)
 
