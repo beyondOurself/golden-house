@@ -26,7 +26,11 @@
 
 ### vue.js
 
+
 [《vue.js 的设计与实现 》(链接: https://wwb.lanzoul.com/iNEfy0dfqyji)](https://wwb.lanzoul.com/iNEfy0dfqyji)
+
+
+[《深入浅出 vue.js》(链接: https://pan.baidu.com/s/19iwYvggN1LyE4qb_Wawqcg 提取码: vfqt )](https://pan.baidu.com/s/19iwYvggN1LyE4qb_Wawqcg)
 
 
 ## 书籍连接
