@@ -24,6 +24,11 @@
 
 [《javascript高级程序设计(第四版本).pdf》(链接: https://pan.baidu.com/s/1W0cLsjzt7PD9uEXOALwNuQ 提取码: 5twn)](https://pan.baidu.com/s/1W0cLsjzt7PD9uEXOALwNuQ)
 
+### TypeScript 
+
+[TypeScript入门与实战.pdf](https://www.aliyundrive.com/s/PW515HZ8Dy1)
+
+
 ### vue.js
 
 
@@ -31,6 +36,13 @@
 
 
 [《深入浅出 vue.js》(链接: https://pan.baidu.com/s/19iwYvggN1LyE4qb_Wawqcg 提取码: vfqt )](https://pan.baidu.com/s/19iwYvggN1LyE4qb_Wawqcg)
+
+
+###  react.js
+
+[深入REACT技术栈.pdf](https://www.aliyundrive.com/s/eihgdXCvmXK)
+
+[React进阶之路.pdf](https://www.aliyundrive.com/s/8cU6aBxaMzK)
 
 
 ## 书籍连接
